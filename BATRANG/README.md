@@ -1,8 +1,5 @@
 # 🦇 Batman Logo Design in SolidWorks
 
-<p align="center">
-  <img src="screenshots/batman-logo.png" alt="Batman Logo Design" width="850">
-</p>
 
 ---
 
