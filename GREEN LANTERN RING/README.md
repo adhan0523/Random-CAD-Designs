@@ -18,11 +18,11 @@
 
 ## 💚 About the Project
 
-This project is a 3D model of a **Green Lantern ring**, designed and modelled in SolidWorks.
+This project is a 3D model of a **Green Lantern Ring**, designed and modelled completely in SolidWorks.
 
-I wanted to take a fictional object that I've always found visually interesting and try to recreate it as a proper 3D CAD model. It was a fun way to experiment with different SolidWorks features while paying attention to the shape, proportions, and details of the ring.
+I wanted to take a fictional object and see how well I could recreate it as an actual CAD model. It was a fun little project to experiment with different SolidWorks features while paying attention to the shape, proportions, and small details that make the ring recognizable.
 
-The final model combines the main ring body with the characteristic Green Lantern emblem on top.
+The final model combines the ring body with the iconic Green Lantern emblem on the top.
 
 ---
 
@@ -30,17 +30,15 @@ The final model combines the main ring body with the characteristic Green Lanter
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=21&duration=6000&pause=2500&color=00FF66&center=true&vCenter=true&width=1000&lines=PASTE+THE+FULL+GREEN+LANTERN+OATH+HERE;ONE+LINE+AT+A+TIME;LET+THE+WORDS+APPEAR+SLOWLY...;GREEN+LANTERN'S+LIGHT!" alt="Green Lantern Oath">
-
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=6500&pause=2500&color=00FF66&center=true&vCenter=true&width=1000&height=180&lines=In+brightest+day%2C+in+blackest+night%2C;no+evil+shall+escape+my+sight.;Let+those+who+worship+evil%27s+might%2C;beware+my+power...;Green+Lantern%27s+light!" alt="Green Lantern Oath">
+  
 </p>
-
-> **Add the complete Green Lantern Oath to the `lines=` parameter above if you want the entire oath animated.**
 
 ---
 
 ## 🛠️ Design & Modelling
 
-The ring was created step by step in SolidWorks, starting with the basic ring geometry and gradually building up the upper section and emblem.
+The ring was created step by step in SolidWorks, starting with the basic ring geometry and gradually building the upper section and emblem.
 
 Some of the SolidWorks features explored during the modelling process include:
 
@@ -50,11 +48,11 @@ Some of the SolidWorks features explored during the modelling process include:
 - Fillets
 - Chamfers
 - Reference geometry
-- Pattern features
+- Circular patterns
 - Surface modelling
 - Feature-based modelling
 
-The main focus was on getting the overall form right while keeping the model clean and editable.
+The main goal was to keep the model clean, editable, and as close as possible to the intended design.
 
 ---
 
