@@ -9,8 +9,7 @@
 </p>
 <p align="center">
 
-  <img src=width="1015" height="804" alt="Screenshot 2026-09-14 125212" src="https://github.com/user-attachments/assets/0d9d9ec9-b523-467d-ac49-ccd9000c8cdf" />
-
+  <img src="https://github.com/user-attachments/assets/0d9d9ec9-b523-467d-ac49-ccd9000c8cdf" width="500" alt="Screenshot 2026-09-14 125212">
 </p>
 
 <p align="center">
