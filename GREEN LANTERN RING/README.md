@@ -1,78 +1,30 @@
 # 💚 Green Lantern Ring — SolidWorks
 
 <p align="center">
-  <img src="green-lantern-ring.png" width="700" alt="Green Lantern Ring designed in SolidWorks">
+
+  <img src="<img width="1015" height="804" alt="Screenshot 2026-09-14 125212" src="https://github.com/user-attachments/assets/0d9d9ec9-b523-467d-ac49-ccd9000c8cdf" />
+" width="700" alt="Green Lantern Ring designed in SolidWorks">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=1800&pause=500&color=00FF66&center=true&vCenter=true&width=800&height=60&lines=GREEN+LANTERN+RING;SOLIDWORKS+CAD+DESIGN;POWER+RING+CONCEPT" alt="Green Lantern Ring">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3500&pause=1200&color=00FF66&center=true&vCenter=true&width=900&lines=GREEN+LANTERN+RING;DESIGNED+IN+SOLIDWORKS;CAD+%7C+3D+MODELING+%7C+DESIGN" alt="Animated title">
 </p>
 
 <p align="center">
-
-![SolidWorks](https://img.shields.io/badge/SolidWorks-CAD-red?style=for-the-badge\&logo=dassaultsystemes)
-
-![CAD](https://img.shields.io/badge/CAD-3D%20Modeling-00FF66?style=for-the-badge)
-
-![Project](https://img.shields.io/badge/Project-Personal-00FF66?style=for-the-badge)
-
+  <img src="https://img.shields.io/badge/SOLIDWORKS-2023-00A651?style=for-the-badge&logo=dassaultsystemes&logoColor=white">
+  <img src="https://img.shields.io/badge/CAD-3D%20MODELING-00FF66?style=for-the-badge">
+  <img src="https://img.shields.io/badge/PROJECT-CAD%20DESIGN-00AA44?style=for-the-badge">
 </p>
 
 ---
 
 ## 💚 About the Project
 
-This is a **Green Lantern ring designed and modeled in SolidWorks**.
+This project is a 3D model of a **Green Lantern Ring**, designed and modelled completely in SolidWorks.
 
-I wanted to recreate the recognizable shape of the ring as a CAD model while practicing different SolidWorks features, sketches, extrusions, cuts, and detailed geometry.
+I wanted to take a fictional object and see how well I could recreate it as an actual CAD model. It was a fun way to experiment with different SolidWorks features while paying attention to the shape, proportions, and small details of the ring.
 
-It's a small project, but it was a fun way to combine **CAD practice with a design I actually wanted to build**.
-
----
-
-## 🛠️ Design & Modelling
-
-The ring was created from scratch in SolidWorks.
-
-The model focuses on:
-
-* Circular ring geometry
-* Central Green Lantern emblem
-* Symmetrical design
-* Extruded and cut features
-* Detailed surface geometry
-* Clean edge finishing
-* Accurate alignment of the emblem and ring body
-
----
-
-## 🔧 Design Process
-
-The general modelling process involved:
-
-1. Creating the basic ring profile
-2. Building the ring body
-3. Creating the central emblem
-4. Adding the emblem geometry to the ring
-5. Using extrusions and cuts to create the required details
-6. Applying fillets/chamfers where needed
-7. Refining the final shape and appearance
-
----
-
-## 📚 What I Practiced
-
-Through this model, I practiced:
-
-* Sketching
-* Extrude Boss/Base
-* Extruded Cut
-* Circular geometry
-* Symmetric modelling
-* Fillets and edge finishing
-* Feature-based modelling
-* Design refinement
-* 3D CAD visualization
+The final model combines the ring body with the iconic Green Lantern emblem on the top.
 
 ---
 
@@ -83,29 +35,102 @@ Through this model, I practiced:
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=1200&pause=300&color=00FF66&center=true&vCenter=true&width=1000&height=180&lines=In+brightest+day%2C+in+blackest+night%2C;no+evil+shall+escape+my+sight.;Let+those+who+worship+evil%27s+might%2C;beware+my+power...;Green+Lantern%27s+light!" alt="Green Lantern Oath">
 
 </p>
+</p>
 
 ---
 
-## 🧠 Why I Made This
+## 🛠️ Design & Modelling
 
-Not every CAD project needs to be a complicated mechanical assembly.
+The ring was created step by step in SolidWorks, starting with the basic ring geometry and gradually building the upper section and emblem.
 
-Sometimes, designing something familiar and interesting is a good way to practice modelling while actually enjoying the process.
+Some of the SolidWorks features explored during the modelling process include:
 
-This project was one of those.
+- Sketches
+- Extruded Boss/Base
+- Revolved features
+- Fillets
+- Chamfers
+- Reference geometry
+- Circular patterns
+- Surface modelling
+- Feature-based modelling
+
+The main goal was to get the overall form right while keeping the model clean and editable.
+
+---
+
+## ⚙️ Design Process
+
+```text
+Initial Concept
+      ↓
+Basic Ring Geometry
+      ↓
+Ring Profile
+      ↓
+Top Section
+      ↓
+Green Lantern Emblem
+      ↓
+Detailing & Refinement
+      ↓
+Final CAD Model
+```
+
+---
+
+## 🧪 What I Practiced
+
+This project helped me improve my understanding of:
+
+- 3D part modelling
+- Sketch creation
+- Surface and solid modelling
+- Feature-based modelling
+- Symmetrical geometry
+- Circular patterns
+- Filleting and chamfering
+- Creating detailed CAD designs
+- Refining and finishing a model
+
+---
+
+## 🎬 Model Showcase
+
+<p align="center">
+  <img src="green-lantern-ring.gif" width="800" alt="Green Lantern Ring SolidWorks animation">
+</p>
+
+---
+
+## 📐 Software Used
+
+**SolidWorks**
+
+Used for the complete 3D modelling and design of the ring.
+
+---
+
+## 💡 Why I Made It
+
+Not every CAD project has to be a machine part or an industrial component.
+
+Sometimes, modelling something simply because it looks cool is a good way to learn.
+
+This was one of those projects for me — taking a fictional design and trying to turn it into something that could actually exist as a 3D model.
 
 ---
 
 ## 🚀 Future Improvements
 
-Possible improvements for a future version:
+Some things I may explore with this model:
 
-* Add more detailed surface finishing
-* Improve the Green Lantern emblem
-* Create multiple ring variations
-* Add realistic materials and rendering
-* Create a printable version
-* Prepare the model for 3D printing
+- Improve the emblem details
+- Add realistic materials and appearances
+- Create a high-quality render
+- Prepare the model for 3D printing
+- Experiment with different ring variations
+- Create more fictional-object CAD models
 
 ---
 
@@ -114,24 +139,11 @@ Possible improvements for a future version:
 ```text
 Green-Lantern-Ring/
 │
+├── README.md
 ├── green-lantern-ring.png
-├── Green-Lantern-Ring.SLDPRT
-└── README.md
+├── green-lantern-ring.gif
+└── Green_Lantern_Ring.SLDPRT
 ```
-
----
-
-## 💻 Software
-
-**SolidWorks**
-
-Used for the complete 3D modelling and design of the ring.
-
----
-
-## 🎯 Learning Outcome
-
-This project helped me improve my confidence with **SolidWorks part modelling and detailed feature creation**, while also giving me more practice in turning a visual idea into an actual 3D CAD model.
 
 ---
 
@@ -139,15 +151,14 @@ This project helped me improve my confidence with **SolidWorks part modelling an
 
 **Adhan Lenin**
 
-Mechatronics Engineering Student
-CAD • Robotics • Embedded Systems • Engineering Projects
+B.Tech Mechatronics Engineering Student
+
+**CAD • Robotics • Mechatronics • Embedded Systems • Automation**
 
 ---
 
 <p align="center">
 
 💚 **Designed in SolidWorks**
-
-⚡ **Built for the love of CAD**
 
 </p>
