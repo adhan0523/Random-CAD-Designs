@@ -1,9 +1,16 @@
 # 💚 Green Lantern Ring — SolidWorks
+# 💚 The Green Lantern Oath
 
 <p align="center">
 
-  <img src="<img width="1015" height="804" alt="Screenshot 2026-09-14 125212" src="https://github.com/user-attachments/assets/0d9d9ec9-b523-467d-ac49-ccd9000c8cdf" />
-" width="700" alt="Green Lantern Ring designed in SolidWorks">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=1200&pause=300&color=00FF66&center=true&vCenter=true&width=1000&height=180&lines=In+brightest+day%2C+in+blackest+night%2C;no+evil+shall+escape+my+sight.;Let+those+who+worship+evil%27s+might%2C;beware+my+power...;Green+Lantern%27s+light!" alt="Green Lantern Oath">
+
+
+</p>
+<p align="center">
+
+  <img src=width="1015" height="804" alt="Screenshot 2026-09-14 125212" src="https://github.com/user-attachments/assets/0d9d9ec9-b523-467d-ac49-ccd9000c8cdf" />
+
 </p>
 
 <p align="center">
@@ -28,14 +35,7 @@ The final model combines the ring body with the iconic Green Lantern emblem on t
 
 ---
 
-# 💚 The Green Lantern Oath
 
-<p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=1200&pause=300&color=00FF66&center=true&vCenter=true&width=1000&height=180&lines=In+brightest+day%2C+in+blackest+night%2C;no+evil+shall+escape+my+sight.;Let+those+who+worship+evil%27s+might%2C;beware+my+power...;Green+Lantern%27s+light!" alt="Green Lantern Oath">
-
-</p>
-</p>
 
 ---
 
